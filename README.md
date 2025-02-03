@@ -7,8 +7,8 @@ The application was developed to help users know the prayer times and read the H
 The user can specify the prayers when they are completed.
 
 Tools:
-Architecture: MVC
-State Management: Getx
-API Integration: Http
+- Architecture: MVC
+- State Management: Getx
+- API Integration: Http
 
  
